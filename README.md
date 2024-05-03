@@ -1,4 +1,4 @@
-# uMSX Pro Rev.3.78
+# uMSX Pro Rev.3.79
  The latest uMSX hardware improvement design file includes the motherboard and card slot PCB design, which I think is perfect. The latest version is motherboard v3.79+Cart v0.28
 #### What is it?
 The latest version of uMSX Pro Rev.3.79 is newly launched with sufficient stock. I hope that everyone can easily own 1ChipMSX and get the best MSX2+ experience!  
